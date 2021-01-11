@@ -1,0 +1,9 @@
+{
+  "name": "BottomP",
+  "description": "Move your GNOME panel (taskbar) to the bottom of the screen. It was inspired by BottomPanel but was written handle some of it's limitations. BottomP works flawlessly with multi-monitor setups with different resolution, scaling and monitor positioning.",
+  "shell-version": [
+    "3.38.2"
+  ],
+  "uuid": "bottomp@pro.bbist",
+  "version": 1
+}
