@@ -21,5 +21,5 @@ You can activate (or deactivate) it using `gnome-tweak-tool`.
 Search for extention `BottomP` using the search bar located in the GNOME Shell integration's home page in your browser. Open and install `BottomP`.
 
 ## Notes
-1. It is a fork of the BottomPanel GNOME Shell extension. Thanks to [Thoma5](https://github.com/Thoma5) and all the other contributors.
+1. Thanks to [Thoma5](https://github.com/Thoma5) for writing amazing [BottomPanel](https://github.com/Thoma5/gnome-shell-extension-bottompanel) and all the other contributors.
 2. It has only been tested on `Pop-os 20.10` with gnome-shell version `3.38.2`.
